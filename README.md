@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning on codecadamy
 - 💞️ I’m looking to collaborate on anything that I can learn from and maybe even contribute to
 - 📫 How to reach me : send me a message, I'm usually quick to respond, unless it's a full moon..
-- 😄 Books: I love books, so give me recommendations. Favorites of mine include: Master and Margarita, East of Eden & The Count of Montecristo
+- 😄 Books: I love books, so give me recommendations. Favorites: Master and Margarita, East of Eden & The Count of Montecristo
 - ⚡ Fun fact: My first steps on earth were taken amongst tribesmen in a jungle in South America.
 
 <!---
